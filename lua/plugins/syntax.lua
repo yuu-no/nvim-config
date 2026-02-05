@@ -1,0 +1,4 @@
+return {
+  "rodjek/vim-puppet",
+  on_ft = "puppet",
+}
