@@ -5,3 +5,4 @@ require("config.options.ftdetect")
 
 local opt = vim.opt
 opt.timeoutlen = 100
+opt.clipboard = "unnamedplus"
